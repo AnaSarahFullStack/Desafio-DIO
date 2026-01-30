@@ -39,4 +39,5 @@ else {
 }
 
 // Exibir mensagem final
+
 console.log("O Herói de nome " + nomeDoHero1 + " está no nível de " + nivelDoHero1)
